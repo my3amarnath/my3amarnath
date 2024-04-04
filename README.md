@@ -17,10 +17,6 @@ I am Maithri Amarnath Vijayakumari. A process-oriented **Data Analyst** with Mas
 <br/>
 
 <hr>
-<!-- Most Used Languages Infographic then Tools & Languages -->
-<a href="https://github.com/my3amarnath">
-  <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my3amarnath&layout=compact&theme=aura" alt="Top Languages Used"/>
-</a>
 
 <!--
 **my3amarnath/my3amarnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
