@@ -1,7 +1,7 @@
 ### Hey there 👋 
 
 <!-- Text Under Headline -->
-I am Maithri Amarnath Vijayakumari. A process-oriented **Data Analyst** with Master’s Degree in Data Science and Analytics. A budding **Data Scientist** with extenstive experience working with one of the leading semiconductor manufacturing industries by optimizing manufacturing processes by collecting process data, pre-processing, and identifying trends and opportunities to enhance the module performance by analyzing the data sets. In my spare time, I enjoy practicing *Python and SQL*. I love to learn and create. Let's collaborate!
+I am Maithri. A process-oriented **Data Analyst** with Master’s Degree in Data Science and Analytics. A budding **Data Scientist** with extenstive experience working with one of the leading semiconductor manufacturing industries by optimizing manufacturing processes by collecting process data, pre-processing, and identifying trends and opportunities to enhance the module performance by analyzing the data sets. In my spare time, I enjoy practicing *Python and SQL*. I love to learn and create. Let's collaborate!
 
 ## 📫 Connect With Me 👇 
 
